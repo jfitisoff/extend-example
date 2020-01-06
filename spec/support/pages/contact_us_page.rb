@@ -1,3 +1,4 @@
+# https://github.com/jfitisoff/insite/wiki/Defining-Page-Objects
 class ContactUsPage < ExtendSite::Page
   set_url '/contact/'
 

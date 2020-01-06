@@ -1,3 +1,4 @@
+# https://github.com/jfitisoff/insite/wiki/Defining-Page-Objects
 class LoginPage < ExtendSite::Page
   set_url 'https://merchants.extend.com/login'
 

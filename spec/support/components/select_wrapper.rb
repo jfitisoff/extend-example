@@ -1,3 +1,4 @@
+# https://github.com/jfitisoff/insite/wiki/Defining-Components
 class SelectWrapper < ExtendSite::Component
   select_by tag_name: 'div', class: /css-[a-z0-9]+-SelectWrapper\s+\S+/
 

@@ -1,5 +1,6 @@
 require 'insite'
 
+# https://github.com/jfitisoff/insite/wiki/Defining-a-Site
 class ExtendSite
   include Insite
 

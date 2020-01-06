@@ -1,3 +1,4 @@
+# https://github.com/jfitisoff/insite/wiki/Defining-Page-Objects
 class ConnectStorePage < ExtendSite::Page
   set_url 'https://merchants.extend.com/onboarding/platform/'
 

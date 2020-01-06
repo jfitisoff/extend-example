@@ -1,3 +1,4 @@
+# https://github.com/jfitisoff/insite/wiki/Defining-Components
 class CheckboxWrapper < ExtendSite::Component
   select_by tag_name: 'label', class: /css-[a-z0-9]+-Wrapper-Checkbox/
 

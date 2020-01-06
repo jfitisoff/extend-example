@@ -1,3 +1,4 @@
+# https://github.com/jfitisoff/insite/wiki/Defining-Page-Objects
 class BlogPage < ExtendSite::Page
   set_url '/blog/'
 
